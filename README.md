@@ -1,4 +1,4 @@
-## Hi there 👋
+## My GitHub
 
 <!--
 **wjddus0311/wjddus0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
