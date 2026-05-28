@@ -1,4 +1,7 @@
-## My GitHub
+
+# 📚Introduction📚
+
+### 대구소프트웨어마이스터고등학교에 재학중인 이정연입니다.
 
 <!--
 **wjddus0311/wjddus0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
