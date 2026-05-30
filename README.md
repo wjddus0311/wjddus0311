@@ -3,6 +3,13 @@
 
 ### 대구소프트웨어마이스터고등학교에 재학중인 이정연입니다.
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wjddus0311&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wjddus0311"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **wjddus0311/wjddus0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
