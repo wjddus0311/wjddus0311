@@ -1,7 +1,4 @@
 
-# 📚Introduction📚
-
-### 대구소프트웨어마이스터고등학교에 재학중인 이정연입니다.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wjddus0311&utm_content=farm">
 <img
